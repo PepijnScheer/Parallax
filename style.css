@@ -1,0 +1,36 @@
+body, html {
+    height: 100%;
+}
+
+.paralax1 {
+    background-image: url("paralax.png");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.tekst {
+    font-size: 20px;
+    height: 30%;
+}
+
+.paralax2 {
+    background-image: url("paralax2.png");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.paralax3 {
+    background-image: url("paralax3.jpg");
+    height: 100%;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
